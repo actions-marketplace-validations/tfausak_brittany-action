@@ -1,5 +1,9 @@
 # Brittany action
 
+:warning:
+I do not maintain this action anymore.
+I suggest you switch to Ormolu and use [mrkkrp/ormolu-action](https://github.com/marketplace/actions/ormolu-action) instead.
+
 This is a GitHub Action that checks to make sure that Haskell files are
 properly formatted with [Brittany][].
 
